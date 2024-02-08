@@ -4,7 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cee42616-39a8-49ef-b9bf-1f2efb6ade32" name="Changes" comment="stuff" />
+    <list default="true" id="cee42616-39a8-49ef-b9bf-1f2efb6ade32" name="Changes" comment="stuff">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algebra_liniowa_przypomnienie.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Appstore_data.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dane_giełdowe_amazon.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Funkcje_statystyczne_NumPy.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/London_Bike_Data.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NumPy_podstawy.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pandas_Podstawy.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prawdopodobienstwo_i_statystyka.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SQL_porownanie.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ładowanie_i_zapisywanie_danych.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Łączenie_danych.ipynb" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -90,6 +103,8 @@
       <workItem from="1707150380046" duration="6330000" />
       <workItem from="1707221087672" duration="3519000" />
       <workItem from="1707317145306" duration="15325000" />
+      <workItem from="1707388546694" duration="19000" />
+      <workItem from="1707388587196" duration="92000" />
     </task>
     <task id="LOCAL-00001" summary="stuff">
       <option name="closed" value="true" />
