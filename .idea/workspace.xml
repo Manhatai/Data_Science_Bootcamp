@@ -5,10 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cee42616-39a8-49ef-b9bf-1f2efb6ade32" name="Changes" comment="stuff">
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matplotlib, Seaborn, Plotly/Matplotlib_obrazy.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matplotlib, Seaborn, Plotly/Matplotlib_style.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matplotlib, Seaborn, Plotly/Matplotlib_wprowadzenie.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matplotlib, Seaborn, Plotly/business.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matplotlib, Seaborn, Plotly/children.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matplotlib, Seaborn, Plotly/office.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matplotlib, Seaborn, Plotly/workplace.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pandas/Appstore_data.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Pandas/Appstore_data.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/appstore_games.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Pandas/appstore_games.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,12 +67,13 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "settings.editor.selected.configurable": "terminal",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Mateusz\Desktop\Projekty_python\Data_Science_Bootcamp\Matplotlib, Seaborn, Plotly" />
       <recent name="C:\Users\Mateusz\Desktop\Projekty_python\Data_Science_Bootcamp\Pandas" />
       <recent name="C:\Users\Mateusz\Desktop\Projekty_python\London_Bike_Data" />
     </key>
@@ -114,7 +119,8 @@
       <workItem from="1707430336757" duration="751000" />
       <workItem from="1707434334507" duration="1388000" />
       <workItem from="1707477635625" duration="913000" />
-      <workItem from="1707478580067" duration="3033000" />
+      <workItem from="1707478580067" duration="3684000" />
+      <workItem from="1707483370768" duration="4343000" />
     </task>
     <task id="LOCAL-00001" summary="stuff">
       <option name="closed" value="true" />
