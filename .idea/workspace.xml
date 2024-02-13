@@ -5,14 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cee42616-39a8-49ef-b9bf-1f2efb6ade32" name="Changes" comment="stuff">
-      <change afterPath="$PROJECT_DIR$/Matplotlib, Seaborn, Plotly/Matplotlib_obrazy.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Matplotlib, Seaborn, Plotly/Matplotlib_style.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Matplotlib, Seaborn, Plotly/Matplotlib_wprowadzenie.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Matplotlib, Seaborn, Plotly/business.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Matplotlib, Seaborn, Plotly/children.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Matplotlib, Seaborn, Plotly/office.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Matplotlib, Seaborn, Plotly/workplace.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matplotlib, Seaborn, Plotly/Seaborn_wprowadzenie.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pandas/Appstore_data.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Pandas/Appstore_data.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,21 +51,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Mateusz/Desktop/Projekty_python/Data_Science_Bootcamp",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "terminal",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Mateusz/Desktop/Projekty_python/Data_Science_Bootcamp&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Mateusz\Desktop\Projekty_python\Data_Science_Bootcamp\Matplotlib, Seaborn, Plotly" />
@@ -121,6 +116,11 @@
       <workItem from="1707477635625" duration="913000" />
       <workItem from="1707478580067" duration="3684000" />
       <workItem from="1707483370768" duration="4343000" />
+      <workItem from="1707510949708" duration="626000" />
+      <workItem from="1707666740918" duration="5297000" />
+      <workItem from="1707682318036" duration="1560000" />
+      <workItem from="1707751425610" duration="5007000" />
+      <workItem from="1707828731056" duration="3602000" />
     </task>
     <task id="LOCAL-00001" summary="stuff">
       <option name="closed" value="true" />
