@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cee42616-39a8-49ef-b9bf-1f2efb6ade32" name="Changes" comment="stuff">
-      <change afterPath="$PROJECT_DIR$/Matplotlib, Seaborn, Plotly/Seaborn_wprowadzenie.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matplotlib, Seaborn, Plotly/Plotly_wprowadzenie.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matplotlib, Seaborn, Plotly/bar.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pandas/Appstore_data.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Pandas/Appstore_data.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matplotlib, Seaborn, Plotly/Plotly_express_wprowadzenie.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Matplotlib, Seaborn, Plotly/Plotly_express_wprowadzenie.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +58,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Mateusz/Desktop/Projekty_python/Data_Science_Bootcamp&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Mateusz/Desktop/Projekty_python/Database_Tets&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -120,7 +121,9 @@
       <workItem from="1707666740918" duration="5297000" />
       <workItem from="1707682318036" duration="1560000" />
       <workItem from="1707751425610" duration="5007000" />
-      <workItem from="1707828731056" duration="3602000" />
+      <workItem from="1707828731056" duration="12494000" />
+      <workItem from="1707946527953" duration="4180000" />
+      <workItem from="1708007187930" duration="6795000" />
     </task>
     <task id="LOCAL-00001" summary="stuff">
       <option name="closed" value="true" />
