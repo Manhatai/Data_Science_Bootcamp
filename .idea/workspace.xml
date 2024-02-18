@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cee42616-39a8-49ef-b9bf-1f2efb6ade32" name="Changes" comment="stuff">
-      <change afterPath="$PROJECT_DIR$/Scikit-learn/Metryki_klasyfikacja.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scikit-learn/Sklearn-pierwszy-model.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Scikit-learn/Sklearn-pierwszy-model.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scikit-learn/Metryki_klasyfikacja.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Scikit-learn/Metryki_klasyfikacja.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -176,8 +175,8 @@
     <list>
       <item itemvalue="Python.Dash_simple_app" />
       <item itemvalue="Python.main" />
-      <item itemvalue="Python.asd123" />
       <item itemvalue="Python.Notowania_giełdowe" />
+      <item itemvalue="Python.asd123" />
     </list>
     <recent_temporary>
       <list>
@@ -219,7 +218,8 @@
       <workItem from="1708116879774" duration="982000" />
       <workItem from="1708182755197" duration="3997000" />
       <workItem from="1708188437687" duration="231000" />
-      <workItem from="1708193603149" duration="4092000" />
+      <workItem from="1708193603149" duration="5338000" />
+      <workItem from="1708258823174" duration="2359000" />
     </task>
     <task id="LOCAL-00001" summary="stuff">
       <option name="closed" value="true" />
@@ -239,6 +239,17 @@
     <MESSAGE value="Utworzono za pomocą Colaboratory" />
     <MESSAGE value="stuff" />
     <option name="LAST_COMMIT_MESSAGE" value="stuff" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook://C:/Users/Mateusz/Desktop/Projekty_python/Data_Science_Bootcamp/Scikit-learn/Metryki_klasyfikacja.ipynb</url>
+          <line>55</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/NumPy_podstawy_ipynb$Notowania_giedowe.coverage" NAME="Notowania_giełdowe Coverage Results" MODIFIED="1708089264050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dash" />
