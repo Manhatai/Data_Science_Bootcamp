@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cee42616-39a8-49ef-b9bf-1f2efb6ade32" name="Changes" comment="scikit-learn and stuff">
-      <change afterPath="$PROJECT_DIR$/Scikit-learn/Regresja_Liniowa.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Scikit-learn/Regresja_logistyczna.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Scikit-learn/Regresja_wielomianowa.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scikit-learn/k_najblizszych_sasiadow.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -227,7 +225,7 @@
       <workItem from="1708374066143" duration="1189000" />
       <workItem from="1708430087519" duration="10705000" />
       <workItem from="1708446394701" duration="595000" />
-      <workItem from="1708505742773" duration="10100000" />
+      <workItem from="1708505742773" duration="11102000" />
     </task>
     <task id="LOCAL-00001" summary="stuff">
       <option name="closed" value="true" />
@@ -253,7 +251,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708444484569</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="scikit-learn and stuff">
+      <option name="closed" value="true" />
+      <created>1708538687255</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1708538687255</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
