@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cee42616-39a8-49ef-b9bf-1f2efb6ade32" name="Changes" comment="scikit-learn and stuff">
-      <change afterPath="$PROJECT_DIR$/Scikit-learn/Drzewo_decyzyjne.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Scikit-learn/svm_digit_recognition.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="cee42616-39a8-49ef-b9bf-1f2efb6ade32" name="Changes" comment="tensorflow and keras">
+      <change afterPath="$PROJECT_DIR$/Keras + TensorFlow/Keras.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scikit-learn/k_najblizszych_sasiadow.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Scikit-learn/k_najblizszych_sasiadow.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +40,20 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Manhatai&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="6fe8bfe9-c6d0-4605-8f29-69541520a777" />
+        <option name="url" value="https://github.com/Manhatai/Data_Science_Bootcamp" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -60,7 +71,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Mateusz/Desktop/Projekty_python/Database_Tets&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Mateusz/Desktop/Projekty_python/Data_Science_Bootcamp&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -229,7 +240,14 @@
       <workItem from="1708430087519" duration="10705000" />
       <workItem from="1708446394701" duration="595000" />
       <workItem from="1708505742773" duration="11811000" />
-      <workItem from="1708597568101" duration="11063000" />
+      <workItem from="1708597568101" duration="11290000" />
+      <workItem from="1708630438466" duration="760000" />
+      <workItem from="1708638328919" duration="19000" />
+      <workItem from="1708638800303" duration="1950000" />
+      <workItem from="1708721144995" duration="967000" />
+      <workItem from="1708766630998" duration="8921000" />
+      <workItem from="1708874186380" duration="6769000" />
+      <workItem from="1708942449673" duration="1193000" />
     </task>
     <task id="LOCAL-00001" summary="stuff">
       <option name="closed" value="true" />
@@ -271,7 +289,23 @@
       <option name="project" value="LOCAL" />
       <updated>1708539460470</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="scikit-learn and stuff">
+      <option name="closed" value="true" />
+      <created>1708625122109</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1708625122109</updated>
+    </task>
+    <task id="LOCAL-00007" summary="tensorflow and keras">
+      <option name="closed" value="true" />
+      <created>1708788969596</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1708788969596</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -282,7 +316,8 @@
     <MESSAGE value="stuff" />
     <MESSAGE value="scikit-learn" />
     <MESSAGE value="scikit-learn and stuff" />
-    <option name="LAST_COMMIT_MESSAGE" value="scikit-learn and stuff" />
+    <MESSAGE value="tensorflow and keras" />
+    <option name="LAST_COMMIT_MESSAGE" value="tensorflow and keras" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/NumPy_podstawy_ipynb$Notowania_giedowe.coverage" NAME="Notowania_giełdowe Coverage Results" MODIFIED="1708089264050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dash" />
