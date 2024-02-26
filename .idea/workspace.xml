@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cee42616-39a8-49ef-b9bf-1f2efb6ade32" name="Changes" comment="keras">
+      <change afterPath="$PROJECT_DIR$/Keras + TensorFlow/fashion_mnist.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keras + TensorFlow/transfer_learning.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Keras + TensorFlow/Keras.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Keras + TensorFlow/Keras.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -247,7 +248,7 @@
       <workItem from="1708721144995" duration="967000" />
       <workItem from="1708766630998" duration="8921000" />
       <workItem from="1708874186380" duration="6769000" />
-      <workItem from="1708942449673" duration="6830000" />
+      <workItem from="1708942449673" duration="9739000" />
     </task>
     <task id="LOCAL-00001" summary="stuff">
       <option name="closed" value="true" />
