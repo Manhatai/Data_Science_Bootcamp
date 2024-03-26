@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cee42616-39a8-49ef-b9bf-1f2efb6ade32" name="Changes" comment="keras">
-      <change afterPath="$PROJECT_DIR$/Keras + TensorFlow/fashion_mnist.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Keras + TensorFlow/transfer_learning.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_26_02_2024_14_13_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_26_02_2024_14_13__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keras + TensorFlow/fashion_mnist.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Keras + TensorFlow/fashion_mnist.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +73,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Mateusz/Desktop/Projekty_python/Data_Science_Bootcamp&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Mateusz/Desktop/Projekty_python/handwritten-equation-solver&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -84,6 +85,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Mateusz\Desktop\Projekty_python\Data_Science_Bootcamp\OpenCV" />
       <recent name="C:\Users\Mateusz\Desktop\Projekty_python\Data_Science_Bootcamp\Matplotlib, Seaborn, Plotly" />
       <recent name="C:\Users\Mateusz\Desktop\Projekty_python\Data_Science_Bootcamp\Pandas" />
       <recent name="C:\Users\Mateusz\Desktop\Projekty_python\London_Bike_Data" />
@@ -248,7 +250,25 @@
       <workItem from="1708721144995" duration="967000" />
       <workItem from="1708766630998" duration="8921000" />
       <workItem from="1708874186380" duration="6769000" />
-      <workItem from="1708942449673" duration="9739000" />
+      <workItem from="1708942449673" duration="12248000" />
+      <workItem from="1709016872858" duration="32000" />
+      <workItem from="1709067982948" duration="3588000" />
+      <workItem from="1709215231442" duration="597000" />
+      <workItem from="1709646602101" duration="619000" />
+      <workItem from="1709720731343" duration="591000" />
+      <workItem from="1709739743140" duration="17000" />
+      <workItem from="1709739768380" duration="1000" />
+      <workItem from="1709739778234" duration="7000" />
+      <workItem from="1710772362820" duration="604000" />
+      <workItem from="1710871705653" duration="1388000" />
+      <workItem from="1711022314606" duration="597000" />
+      <workItem from="1711113538720" duration="7928000" />
+      <workItem from="1711299756553" duration="1263000" />
+      <workItem from="1711361062671" duration="8056000" />
+      <workItem from="1711387667495" duration="2000" />
+      <workItem from="1711397604383" duration="797000" />
+      <workItem from="1711444377422" duration="126000" />
+      <workItem from="1711446443178" duration="1295000" />
     </task>
     <task id="LOCAL-00001" summary="stuff">
       <option name="closed" value="true" />
@@ -322,7 +342,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708953146201</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="keras">
+      <option name="closed" value="true" />
+      <created>1708968945735</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1708968945735</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
